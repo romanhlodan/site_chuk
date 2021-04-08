@@ -1,0 +1,129 @@
+html, body, h1, p{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 1000px;
+    background: black;
+    font-size: 14;
+    margin: 0 auto;
+    }
+.im{
+    margin-left: 45px;
+    margin-top: 1px;
+  }
+.pro{
+    height: 260px;
+}
+.text-pro{
+    width: 400px;
+    color: white;
+    margin-left: 525px;
+    margin-top: -250px;
+   }
+.pro h1{
+    text-indent: 50px;
+    color:darkred;
+}
+.pro p{
+    text-indent: 30px;
+    color: white;
+}
+.pro div h3{
+    color: red;
+    text-indent: 70px;
+}
+.pro a{
+    color:yellowgreen;
+    text-decoration: none;
+}
+.shop{
+    height: 200px;
+    background-image: url(bg-red-01.png);
+    text-align: center;
+    font-size: 2rem;
+   }
+.shop h2{
+   color: yellow;
+}
+.shop b{
+    color: aqua;
+}
+.box-inf{
+    height: 450px;
+}
+.inf{
+    width: 350px;
+    height: 400px;
+    background: white;
+    border: 2px solid blue;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.blok-icon{
+    width: 250px;
+    height: 282px;
+    border: 2px solid;
+    margin-left: 600px;
+    margin-top: -350px;
+}
+.icon{
+    width: 80px;
+    height: 90px;
+    border: 2px solid red;    
+}
+.float-l{
+    float: left;
+}
+.icon7{
+    margin-left: 167px;
+    margin-top: -282px;
+}
+.icon8{
+    margin-left: 167px;
+    margin-top: -188px;
+}
+.icon9{
+    margin-left: 167px;
+    margin-top: -94px;
+}
+.sto{
+    height: 600px;
+        }
+.clear{
+    clear: both;
+}
+.sto h2{
+    text-align: center;
+    padding-top: 50px;
+    color: azure;
+}
+.sto h1{
+    text-align: center;
+    color: snow;
+}
+.imge{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.imtx{
+    width: 900px;
+    height: 460px;
+    margin-left: 30px;
+    border: 2px solid red;
+    }
+.txe{
+    width: 400px;
+    height: 400px;
+    margin-top: 70px;
+    margin-left: 60px;
+    color: aquamarine;
+    text-align: center;
+
+}
+::selection{
+    background-color: red;
+}
+ .icon :hover{
+    background: gray;
+}
